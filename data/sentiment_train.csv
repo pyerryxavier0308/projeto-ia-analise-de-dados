@@ -1,0 +1,361 @@
+text,label,template_group
+"Na última compra, Demorou muito e chegou tudo errado no restaurante.",negativo,negativo:1
+Faltaram ingredientes e fiquei decepcionado quando recebi a entrega.,negativo,negativo:5
+"Na última compra, Demorou demais para resolver o problema no pedido de hoje.",negativo,negativo:28
+"Na minha experiência, Gostei muito, voltarei a pedir.",positivo,positivo:7
+"Na minha experiência, O pedido chegou no horário previsto no restaurante.",neutro,neutro:0
+"Na minha experiência, Comi e achei normal no restaurante.",neutro,neutro:27
+"Na minha experiência, O lanche veio muito caprichado.",positivo,positivo:16
+"Na última compra, A apresentação era comum quando recebi a entrega.",neutro,neutro:28
+"Na última compra, O pedido chegou no horário previsto no pedido de hoje.",neutro,neutro:0
+"Na última compra, Excelente custo benefício, recomendo quando recebi a entrega.",positivo,positivo:23
+Recebi exatamente o item solicitado quando recebi a entrega.,neutro,neutro:3
+"Hoje, Muito caro para uma qualidade ruim quando recebi a entrega.",negativo,negativo:12
+"Hoje, Achei o pedido apenas suficiente no restaurante.",neutro,neutro:22
+"Na minha experiência, A porção tem tamanho padrão no restaurante.",neutro,neutro:2
+"Hoje, Preço justo pela qualidade e sabor quando recebi a entrega.",positivo,positivo:12
+"Na minha experiência, O produto corresponde à descrição quando recebi a entrega.",neutro,neutro:11
+"Na última compra, Os ingredientes eram os esperados.",neutro,neutro:15
+"Na última compra, Experiência horrível, nada funcionou quando recebi a entrega.",negativo,negativo:9
+"Na última compra, Não gostei, não compraria de novo.",negativo,negativo:7
+Veio totalmente diferente do anunciado no pedido de hoje.,negativo,negativo:22
+"Gostei muito, voltarei a pedir no pedido de hoje.",positivo,positivo:7
+"Na minha experiência, Recebi o produto como anunciado no restaurante.",neutro,neutro:19
+A porção tem tamanho padrão quando recebi a entrega.,neutro,neutro:2
+"Hoje, O serviço foi igual às outras vezes.",neutro,neutro:23
+"Na última compra, Chegou antes do previsto e muito bem feito no restaurante.",positivo,positivo:11
+"Hoje, Recebi exatamente o item solicitado.",neutro,neutro:3
+"Hoje, A comida veio no ponto e bem preparada quando recebi a entrega.",positivo,positivo:27
+Entrega muito rápida e comida ótima quando recebi a entrega.,positivo,positivo:3
+"Hoje, Pizza maravilhosa, recomendo demais.",positivo,positivo:5
+"Na última compra, O pedido veio frio e sem gosto no restaurante.",negativo,negativo:0
+"Hoje, Recebi o produto como anunciado.",neutro,neutro:19
+"Na minha experiência, O pedido veio frio e sem gosto.",negativo,negativo:0
+Muito bom o atendimento e o prato no restaurante.,positivo,positivo:18
+"Na última compra, Foi uma experiência comum.",neutro,neutro:5
+"Hoje, A comida estava ruim e mal preparada no restaurante.",negativo,negativo:2
+"Hoje, Produto fresco e bem apresentado no restaurante.",positivo,positivo:29
+"Hoje, O preço está dentro da média no restaurante.",neutro,neutro:6
+"Na última compra, Foi aceitável.",neutro,neutro:14
+"Na última compra, O suco tinha sabor padrão.",neutro,neutro:17
+"Na última compra, Pizza maravilhosa, recomendo demais no pedido de hoje.",positivo,positivo:5
+"Hoje, O sabor era normal, sem destaque no restaurante.",neutro,neutro:4
+"Hoje, O ambiente foi tranquilo no restaurante.",neutro,neutro:21
+"Hoje, Não notei nada diferente no restaurante.",neutro,neutro:29
+"Na última compra, Entrega impecável e produto muito saboroso no restaurante.",positivo,positivo:22
+O arroz estava ressecado e ruim quando recebi a entrega.,negativo,negativo:27
+A sobremesa estava velha.,negativo,negativo:16
+"Hoje, Fiquei satisfeito com o sabor no pedido de hoje.",positivo,positivo:25
+"Na última compra, O molho estava azedo e desagradável no pedido de hoje.",negativo,negativo:10
+A bebida veio quente e sem graça.,negativo,negativo:17
+Recebi o produto como anunciado quando recebi a entrega.,neutro,neutro:19
+"Hoje, Sem surpresas, positivo ou negativo.",neutro,neutro:25
+"Na última compra, Foi uma experiência excelente, tudo perfeito quando recebi a entrega.",positivo,positivo:9
+"Hoje, A comida chegou toda derramada quando recebi a entrega.",negativo,negativo:11
+"Na última compra, O serviço foi igual às outras vezes no pedido de hoje.",neutro,neutro:23
+"Hoje, A porção estava adequada no restaurante.",neutro,neutro:24
+"Na última compra, Pedi de novo porque achei excelente no pedido de hoje.",positivo,positivo:15
+"Hoje, Veio totalmente diferente do anunciado quando recebi a entrega.",negativo,negativo:22
+"Hoje, Demorou muito e chegou tudo errado quando recebi a entrega.",negativo,negativo:1
+"Na minha experiência, A porção veio pequena e mal embalada no pedido de hoje.",negativo,negativo:8
+"Experiência horrível, nada funcionou.",negativo,negativo:9
+"A comida estava razoável, nada especial quando recebi a entrega.",neutro,neutro:1
+"Na minha experiência, Recebi exatamente o item solicitado no restaurante.",neutro,neutro:3
+"Na última compra, A entrega ocorreu no tempo informado quando recebi a entrega.",neutro,neutro:8
+"Na última compra, O ambiente foi tranquilo quando recebi a entrega.",neutro,neutro:21
+"Na minha experiência, Os ingredientes estavam frescos e saborosos no restaurante.",positivo,positivo:8
+"Hoje, A comida estava deliciosa e chegou quentinha no restaurante.",positivo,positivo:0
+"Na minha experiência, A embalagem rasgou e sujou tudo no restaurante.",negativo,negativo:25
+"Na minha experiência, A salada veio fresca e bem temperada no pedido de hoje.",positivo,positivo:13
+"Hoje, A apresentação era comum no restaurante.",neutro,neutro:28
+"Hoje, O pedido veio excelente e bem embalado quando recebi a entrega.",positivo,positivo:1
+A comida estava ruim e mal preparada.,negativo,negativo:2
+Pedi de novo porque achei excelente quando recebi a entrega.,positivo,positivo:15
+"Na minha experiência, No geral estava neutro.",neutro,neutro:26
+"Na minha experiência, Muito bom o atendimento e o prato quando recebi a entrega.",positivo,positivo:18
+"Na minha experiência, O ambiente foi tranquilo no pedido de hoje.",neutro,neutro:21
+O pedido levou uma eternidade no restaurante.,negativo,negativo:20
+"Hoje, Não tenho opinião forte sobre o pedido quando recebi a entrega.",neutro,neutro:13
+"Hoje, Não recomendo este restaurante quando recebi a entrega.",negativo,negativo:21
+"Na última compra, A pizza estava dura e sem sabor no pedido de hoje.",negativo,negativo:4
+"Na minha experiência, A comida estava ruim e mal preparada no pedido de hoje.",negativo,negativo:2
+"Hoje, Foi tudo ótimo do começo ao fim.",positivo,positivo:24
+"Hoje, A bebida veio quente e sem graça no restaurante.",negativo,negativo:17
+"Hoje, O pedido levou uma eternidade no pedido de hoje.",negativo,negativo:20
+"Hoje, Foi uma experiência excelente, tudo perfeito no restaurante.",positivo,positivo:9
+Não recomendo este restaurante no pedido de hoje.,negativo,negativo:21
+O hambúrguer veio seco e queimado no restaurante.,negativo,negativo:3
+A refeição estava dentro do normal no pedido de hoje.,neutro,neutro:16
+Nada muito bom ou ruim a comentar no restaurante.,neutro,neutro:9
+"Na última compra, Gostei muito, voltarei a pedir no restaurante.",positivo,positivo:7
+"Hoje, Equipe super atenciosa e atendimento ótimo quando recebi a entrega.",positivo,positivo:6
+"Hoje, Ingredientes murchos e velhos no pedido de hoje.",negativo,negativo:13
+"Na minha experiência, A apresentação foi bonita e o gosto excelente quando recebi a entrega.",positivo,positivo:19
+"Na última compra, Produto fresco e bem apresentado quando recebi a entrega.",positivo,positivo:29
+"Na última compra, Muito caro para uma qualidade ruim no restaurante.",negativo,negativo:12
+"Hoje, O molho estava azedo e desagradável.",negativo,negativo:10
+A apresentação era comum.,neutro,neutro:28
+"Na minha experiência, Não gostei, não compraria de novo quando recebi a entrega.",negativo,negativo:7
+"Na última compra, Não notei nada diferente quando recebi a entrega.",neutro,neutro:29
+"Na última compra, O sabor era normal, sem destaque quando recebi a entrega.",neutro,neutro:4
+"Na última compra, A porção estava adequada quando recebi a entrega.",neutro,neutro:24
+"Na minha experiência, Entrega impecável e produto muito saboroso.",positivo,positivo:22
+"Na última compra, A salada veio fresca e bem temperada quando recebi a entrega.",positivo,positivo:13
+"Na minha experiência, Entrega atrasada e atendimento péssimo.",negativo,negativo:6
+"Hoje, A porção tem tamanho padrão.",neutro,neutro:2
+Porção generosa e qualidade incrível.,positivo,positivo:10
+"Na minha experiência, Pedido veio incompleto e frio quando recebi a entrega.",negativo,negativo:14
+"Na última compra, O prato estava ok.",neutro,neutro:7
+A embalagem era simples quando recebi a entrega.,neutro,neutro:10
+"Hoje, Foi uma experiência comum no pedido de hoje.",neutro,neutro:5
+"Na última compra, Comi e achei normal no pedido de hoje.",neutro,neutro:27
+"Hoje, Os ingredientes eram os esperados no pedido de hoje.",neutro,neutro:15
+"Na última compra, Fiquei muito frustrado com o serviço quando recebi a entrega.",negativo,negativo:23
+"Na última compra, O lanche veio muito caprichado no restaurante.",positivo,positivo:16
+"Na última compra, A carne estava passada demais.",negativo,negativo:26
+"Na minha experiência, O suco tinha sabor padrão quando recebi a entrega.",neutro,neutro:17
+"Sobremesa deliciosa, superou minhas expectativas.",positivo,positivo:17
+A porção veio pequena e mal embalada.,negativo,negativo:8
+"Na última compra, O arroz estava ressecado e ruim no pedido de hoje.",negativo,negativo:27
+"Hoje, A comida estava razoável, nada especial.",neutro,neutro:1
+A comida veio no ponto e bem preparada no pedido de hoje.,positivo,positivo:27
+"Na última compra, A embalagem rasgou e sujou tudo no pedido de hoje.",negativo,negativo:25
+"Foi uma experiência excelente, tudo perfeito.",positivo,positivo:9
+"Na minha experiência, A comida estava razoável, nada especial no restaurante.",neutro,neutro:1
+A carne estava passada demais no restaurante.,negativo,negativo:26
+"Na última compra, Recebi o produto como anunciado no pedido de hoje.",neutro,neutro:19
+"Na última compra, Entrega muito rápida e comida ótima no pedido de hoje.",positivo,positivo:3
+"Na minha experiência, Chegou antes do previsto e muito bem feito.",positivo,positivo:11
+"Na última compra, A experiência foi realmente muito positiva no restaurante.",positivo,positivo:26
+"Hoje, A pizza estava dura e sem sabor.",negativo,negativo:4
+Pedido veio incompleto e frio no restaurante.,negativo,negativo:14
+"Na última compra, A comida chegou toda derramada no restaurante.",negativo,negativo:11
+"Na minha experiência, A pizza estava dura e sem sabor no restaurante.",negativo,negativo:4
+"Hoje, O prato estava ok no pedido de hoje.",neutro,neutro:7
+"Hoje, Excelente custo benefício, recomendo no restaurante.",positivo,positivo:23
+"Na minha experiência, Sobremesa deliciosa, superou minhas expectativas no pedido de hoje.",positivo,positivo:17
+"Na minha experiência, Adorei o sabor e a apresentação do prato no pedido de hoje.",positivo,positivo:2
+Os ingredientes estavam frescos e saborosos quando recebi a entrega.,positivo,positivo:8
+A embalagem rasgou e sujou tudo quando recebi a entrega.,negativo,negativo:25
+"Na última compra, A refeição estava dentro do normal no restaurante.",neutro,neutro:16
+"Na minha experiência, Equipe super atenciosa e atendimento ótimo.",positivo,positivo:6
+"Na minha experiência, Ingredientes murchos e velhos quando recebi a entrega.",negativo,negativo:13
+"Hoje, O lanche veio muito caprichado quando recebi a entrega.",positivo,positivo:16
+"Na minha experiência, Hambúrguer suculento e muito gostoso no pedido de hoje.",positivo,positivo:4
+"Na última compra, A comida estava ruim e mal preparada quando recebi a entrega.",negativo,negativo:2
+"Hoje, A qualidade foi mediana.",neutro,neutro:12
+"Na minha experiência, A carne estava passada demais quando recebi a entrega.",negativo,negativo:26
+"Na última compra, A sobremesa estava velha quando recebi a entrega.",negativo,negativo:16
+"Hoje, Péssimo custo benefício.",negativo,negativo:29
+"Na última compra, Não recomendo este restaurante no restaurante.",negativo,negativo:21
+"Hoje, O hambúrguer veio seco e queimado no pedido de hoje.",negativo,negativo:3
+"Na minha experiência, A refeição estava dentro do normal.",neutro,neutro:16
+"Na minha experiência, O sabor era normal, sem destaque no pedido de hoje.",neutro,neutro:4
+"Na última compra, Fiquei insatisfeito com a qualidade no pedido de hoje.",negativo,negativo:18
+"Na minha experiência, Os ingredientes eram os esperados quando recebi a entrega.",neutro,neutro:15
+"Na minha experiência, A qualidade foi mediana no restaurante.",neutro,neutro:12
+"Na minha experiência, A comida veio no ponto e bem preparada.",positivo,positivo:27
+"Na minha experiência, Demorou muito e chegou tudo errado.",negativo,negativo:1
+"Na minha experiência, Muito caro para uma qualidade ruim.",negativo,negativo:12
+"Na minha experiência, Excelente custo benefício, recomendo no pedido de hoje.",positivo,positivo:23
+"Na minha experiência, Veio totalmente diferente do anunciado.",negativo,negativo:22
+"Na minha experiência, A comida estava deliciosa e chegou quentinha no pedido de hoje.",positivo,positivo:0
+"Excelente custo benefício, recomendo.",positivo,positivo:23
+"Na última compra, A qualidade foi mediana no pedido de hoje.",neutro,neutro:12
+Não notei nada diferente.,neutro,neutro:29
+Péssimo custo benefício quando recebi a entrega.,negativo,negativo:29
+"Na última compra, Preço justo pela qualidade e sabor no restaurante.",positivo,positivo:12
+"Hoje, A refeição estava dentro do normal quando recebi a entrega.",neutro,neutro:16
+"Na minha experiência, A entrega ocorreu no tempo informado no pedido de hoje.",neutro,neutro:8
+Preço justo pela qualidade e sabor no pedido de hoje.,positivo,positivo:12
+"Sem surpresas, positivo ou negativo quando recebi a entrega.",neutro,neutro:25
+"Na minha experiência, O atendimento foi regular quando recebi a entrega.",neutro,neutro:18
+"Hoje, A bebida estava gelada e perfeita no pedido de hoje.",positivo,positivo:20
+O atendimento foi regular no restaurante.,neutro,neutro:18
+"Hoje, A porção veio pequena e mal embalada no restaurante.",negativo,negativo:8
+"Na última compra, Equipe super atenciosa e atendimento ótimo no restaurante.",positivo,positivo:6
+"Na última compra, Pedido veio incompleto e frio.",negativo,negativo:14
+"Hoje, Pedido veio incompleto e frio no pedido de hoje.",negativo,negativo:14
+"Hoje, Não gostei, não compraria de novo no pedido de hoje.",negativo,negativo:7
+Foi uma experiência comum no restaurante.,neutro,neutro:5
+"Hoje, A embalagem era simples.",neutro,neutro:10
+"Na minha experiência, Fiquei insatisfeito com a qualidade no restaurante.",negativo,negativo:18
+Produto fresco e bem apresentado.,positivo,positivo:29
+"Na última compra, A embalagem era simples no pedido de hoje.",neutro,neutro:10
+Adorei o sabor e a apresentação do prato.,positivo,positivo:2
+"Hoje, Chegou antes do previsto e muito bem feito quando recebi a entrega.",positivo,positivo:11
+"Na minha experiência, Porção generosa e qualidade incrível no pedido de hoje.",positivo,positivo:10
+"Na minha experiência, Gostei do tempero e da textura.",positivo,positivo:21
+"Na última compra, O produto corresponde à descrição.",neutro,neutro:11
+O sabor foi decepcionante no restaurante.,negativo,negativo:24
+"Na minha experiência, A textura estava na média quando recebi a entrega.",neutro,neutro:20
+"Hoje, Demorou demais para resolver o problema.",negativo,negativo:28
+A pizza estava dura e sem sabor quando recebi a entrega.,negativo,negativo:4
+"Na minha experiência, A apresentação era comum no pedido de hoje.",neutro,neutro:28
+"Na minha experiência, O prato estava ok quando recebi a entrega.",neutro,neutro:7
+"O molho estava maravilhoso, adorei no pedido de hoje.",positivo,positivo:14
+"Hoje, Serviço eficiente e resultado delicioso.",positivo,positivo:28
+"Na última compra, A porção veio pequena e mal embalada quando recebi a entrega.",negativo,negativo:8
+"Hoje, O pedido chegou no horário previsto.",neutro,neutro:0
+"Na minha experiência, O sabor foi decepcionante quando recebi a entrega.",negativo,negativo:24
+Demorou muito e chegou tudo errado no pedido de hoje.,negativo,negativo:1
+"Na minha experiência, Pizza maravilhosa, recomendo demais no restaurante.",positivo,positivo:5
+"Na minha experiência, Não recomendo este restaurante.",negativo,negativo:21
+"Hoje, O produto corresponde à descrição no pedido de hoje.",neutro,neutro:11
+"Na minha experiência, O prato estava excessivamente salgado quando recebi a entrega.",negativo,negativo:19
+O pedido chegou no horário previsto quando recebi a entrega.,neutro,neutro:0
+"Na minha experiência, Nada muito bom ou ruim a comentar quando recebi a entrega.",neutro,neutro:9
+Entrega impecável e produto muito saboroso no pedido de hoje.,positivo,positivo:22
+"Hoje, A embalagem rasgou e sujou tudo.",negativo,negativo:25
+"Na minha experiência, Péssimo custo benefício no restaurante.",negativo,negativo:29
+"Hoje, A sobremesa estava velha no restaurante.",negativo,negativo:16
+Demorou demais para resolver o problema quando recebi a entrega.,negativo,negativo:28
+"Na minha experiência, Atendimento confuso e grosseiro no restaurante.",negativo,negativo:15
+"Na última compra, O sabor foi decepcionante.",negativo,negativo:24
+"Na minha experiência, O pedido veio excelente e bem embalado.",positivo,positivo:1
+"Na minha experiência, O arroz estava ressecado e ruim no restaurante.",negativo,negativo:27
+"Na última compra, A comida estava razoável, nada especial no pedido de hoje.",neutro,neutro:1
+"Hoje, A carne estava passada demais no pedido de hoje.",negativo,negativo:26
+Foi tudo ótimo do começo ao fim quando recebi a entrega.,positivo,positivo:24
+"Hoje, Entrega muito rápida e comida ótima.",positivo,positivo:3
+"Na última compra, A comida veio no ponto e bem preparada no restaurante.",positivo,positivo:27
+O pedido veio frio e sem gosto no pedido de hoje.,negativo,negativo:0
+Não tenho opinião forte sobre o pedido no pedido de hoje.,neutro,neutro:13
+A experiência foi realmente muito positiva no pedido de hoje.,positivo,positivo:26
+"Hoje, O prato estava excessivamente salgado no pedido de hoje.",negativo,negativo:19
+"Hoje, Porção generosa e qualidade incrível no restaurante.",positivo,positivo:10
+"Na minha experiência, Demorou demais para resolver o problema no restaurante.",negativo,negativo:28
+"Na última compra, Muito bom o atendimento e o prato.",positivo,positivo:18
+"Na última compra, Ingredientes murchos e velhos.",negativo,negativo:13
+"Na minha experiência, A bebida estava gelada e perfeita quando recebi a entrega.",positivo,positivo:20
+"Na minha experiência, Fiquei muito frustrado com o serviço no pedido de hoje.",negativo,negativo:23
+"Na última compra, Entrega atrasada e atendimento péssimo no restaurante.",negativo,negativo:6
+A textura estava na média no restaurante.,neutro,neutro:20
+"Na minha experiência, A experiência foi realmente muito positiva.",positivo,positivo:26
+"Na última compra, Não tenho opinião forte sobre o pedido no restaurante.",neutro,neutro:13
+"Na última compra, O molho estava maravilhoso, adorei no restaurante.",positivo,positivo:14
+A bebida estava gelada e perfeita no restaurante.,positivo,positivo:20
+"Na minha experiência, O pedido levou uma eternidade quando recebi a entrega.",negativo,negativo:20
+"Na minha experiência, O preço está dentro da média no pedido de hoje.",neutro,neutro:6
+Os ingredientes eram os esperados no restaurante.,neutro,neutro:15
+"Na última compra, Atendimento confuso e grosseiro no pedido de hoje.",negativo,negativo:15
+"Hoje, O sabor foi decepcionante no pedido de hoje.",negativo,negativo:24
+"Na última compra, Nada muito bom ou ruim a comentar.",neutro,neutro:9
+A comida estava deliciosa e chegou quentinha.,positivo,positivo:0
+"Na última compra, O atendimento foi regular.",neutro,neutro:18
+"Na última compra, Achei o pedido apenas suficiente quando recebi a entrega.",neutro,neutro:22
+"Hoje, No geral estava neutro quando recebi a entrega.",neutro,neutro:26
+"Na minha experiência, O molho estava maravilhoso, adorei.",positivo,positivo:14
+"Hoje, Gostei do tempero e da textura quando recebi a entrega.",positivo,positivo:21
+"Hoje, Fiquei insatisfeito com a qualidade.",negativo,negativo:18
+"Na minha experiência, Pedi de novo porque achei excelente no restaurante.",positivo,positivo:15
+"O sabor era normal, sem destaque.",neutro,neutro:4
+No geral estava neutro no pedido de hoje.,neutro,neutro:26
+"Na última compra, Veio totalmente diferente do anunciado no restaurante.",negativo,negativo:22
+"Na minha experiência, A embalagem era simples no restaurante.",neutro,neutro:10
+A salada veio fresca e bem temperada.,positivo,positivo:13
+"Na última compra, Fiquei satisfeito com o sabor.",positivo,positivo:25
+"Na minha experiência, Serviço eficiente e resultado delicioso no restaurante.",positivo,positivo:28
+"Hoje, O atendimento foi regular no pedido de hoje.",neutro,neutro:18
+"Hoje, Hambúrguer suculento e muito gostoso no restaurante.",positivo,positivo:4
+Gostei do tempero e da textura no pedido de hoje.,positivo,positivo:21
+"Hoje, O molho estava maravilhoso, adorei quando recebi a entrega.",positivo,positivo:14
+"Na última compra, Foi tudo ótimo do começo ao fim no pedido de hoje.",positivo,positivo:24
+O lanche veio muito caprichado no pedido de hoje.,positivo,positivo:16
+Ingredientes murchos e velhos no restaurante.,negativo,negativo:13
+"Na última compra, O hambúrguer veio seco e queimado.",negativo,negativo:3
+"Na última compra, A porção tem tamanho padrão no pedido de hoje.",neutro,neutro:2
+"Na minha experiência, Foi tudo ótimo do começo ao fim no restaurante.",positivo,positivo:24
+"Na minha experiência, Entrega muito rápida e comida ótima no restaurante.",positivo,positivo:3
+"Hoje, Os ingredientes estavam frescos e saborosos.",positivo,positivo:8
+"Na minha experiência, Produto fresco e bem apresentado no pedido de hoje.",positivo,positivo:29
+"Hoje, O suco tinha sabor padrão no pedido de hoje.",neutro,neutro:17
+"Hoje, Comi e achei normal.",neutro,neutro:27
+"Hoje, Entrega impecável e produto muito saboroso quando recebi a entrega.",positivo,positivo:22
+"Na minha experiência, A comida chegou toda derramada.",negativo,negativo:11
+A comida chegou toda derramada no pedido de hoje.,negativo,negativo:11
+"Na última compra, Faltaram ingredientes e fiquei decepcionado no pedido de hoje.",negativo,negativo:5
+"Na última compra, Hambúrguer suculento e muito gostoso quando recebi a entrega.",positivo,positivo:4
+"Hoje, Gostei muito, voltarei a pedir quando recebi a entrega.",positivo,positivo:7
+"Hoje, Entrega atrasada e atendimento péssimo quando recebi a entrega.",negativo,negativo:6
+"Na última compra, A comida estava deliciosa e chegou quentinha quando recebi a entrega.",positivo,positivo:0
+"Hoje, Pedi de novo porque achei excelente.",positivo,positivo:15
+O prato estava excessivamente salgado no restaurante.,negativo,negativo:19
+"Pizza maravilhosa, recomendo demais quando recebi a entrega.",positivo,positivo:5
+Equipe super atenciosa e atendimento ótimo no pedido de hoje.,positivo,positivo:6
+O pedido veio excelente e bem embalado no pedido de hoje.,positivo,positivo:1
+O prato estava ok no restaurante.,neutro,neutro:7
+"Hoje, A apresentação foi bonita e o gosto excelente no pedido de hoje.",positivo,positivo:19
+"Na última compra, Sem surpresas, positivo ou negativo no pedido de hoje.",neutro,neutro:25
+"Hoje, Sobremesa deliciosa, superou minhas expectativas no restaurante.",positivo,positivo:17
+"Na última compra, Péssimo custo benefício no pedido de hoje.",negativo,negativo:29
+"Hoje, Atendimento confuso e grosseiro.",negativo,negativo:15
+O ambiente foi tranquilo.,neutro,neutro:21
+"Na última compra, Adorei o sabor e a apresentação do prato quando recebi a entrega.",positivo,positivo:2
+"Na última compra, O pedido veio excelente e bem embalado no restaurante.",positivo,positivo:1
+"Na última compra, O pedido levou uma eternidade.",negativo,negativo:20
+"Hoje, A experiência foi realmente muito positiva quando recebi a entrega.",positivo,positivo:26
+O produto corresponde à descrição no restaurante.,neutro,neutro:11
+"Na última compra, A apresentação foi bonita e o gosto excelente.",positivo,positivo:19
+O preço está dentro da média.,neutro,neutro:6
+"Na minha experiência, Não notei nada diferente no pedido de hoje.",neutro,neutro:29
+"Na minha experiência, A porção estava adequada no pedido de hoje.",neutro,neutro:24
+"Hoje, O arroz estava ressecado e ruim.",negativo,negativo:27
+"Na última compra, A bebida estava gelada e perfeita.",positivo,positivo:20
+Fiquei insatisfeito com a qualidade quando recebi a entrega.,negativo,negativo:18
+"Na minha experiência, O molho estava azedo e desagradável no restaurante.",negativo,negativo:10
+"Na última compra, Os ingredientes estavam frescos e saborosos no pedido de hoje.",positivo,positivo:8
+"Na minha experiência, Não tenho opinião forte sobre o pedido.",neutro,neutro:13
+A apresentação foi bonita e o gosto excelente no restaurante.,positivo,positivo:19
+"Na última compra, Recebi exatamente o item solicitado no pedido de hoje.",neutro,neutro:3
+"Na última compra, Sobremesa deliciosa, superou minhas expectativas quando recebi a entrega.",positivo,positivo:17
+O suco tinha sabor padrão no restaurante.,neutro,neutro:17
+"Na minha experiência, Preço justo pela qualidade e sabor.",positivo,positivo:12
+"Na última compra, A textura estava na média.",neutro,neutro:20
+"Na última compra, O prato estava excessivamente salgado.",negativo,negativo:19
+Atendimento confuso e grosseiro quando recebi a entrega.,negativo,negativo:15
+"Hoje, A entrega ocorreu no tempo informado no restaurante.",neutro,neutro:8
+"Hoje, Nada muito bom ou ruim a comentar no pedido de hoje.",neutro,neutro:9
+"Hoje, Muito bom o atendimento e o prato no pedido de hoje.",positivo,positivo:18
+Entrega atrasada e atendimento péssimo no pedido de hoje.,negativo,negativo:6
+"Hoje, O pedido veio frio e sem gosto quando recebi a entrega.",negativo,negativo:0
+"Na minha experiência, Achei o pedido apenas suficiente no pedido de hoje.",neutro,neutro:22
+Fiquei muito frustrado com o serviço.,negativo,negativo:23
+"Na minha experiência, Faltaram ingredientes e fiquei decepcionado no restaurante.",negativo,negativo:5
+"Na minha experiência, Foi uma experiência comum quando recebi a entrega.",neutro,neutro:5
+A entrega ocorreu no tempo informado.,neutro,neutro:8
+A porção estava adequada.,neutro,neutro:24
+"Na minha experiência, Experiência horrível, nada funcionou no pedido de hoje.",negativo,negativo:9
+Fiquei satisfeito com o sabor no restaurante.,positivo,positivo:25
+"Não gostei, não compraria de novo no restaurante.",negativo,negativo:7
+Muito caro para uma qualidade ruim no pedido de hoje.,negativo,negativo:12
+Achei o pedido apenas suficiente.,neutro,neutro:22
+"Na minha experiência, Sem surpresas, positivo ou negativo no restaurante.",neutro,neutro:25
+Serviço eficiente e resultado delicioso quando recebi a entrega.,positivo,positivo:28
+"Na última compra, Gostei do tempero e da textura no restaurante.",positivo,positivo:21
+Comi e achei normal quando recebi a entrega.,neutro,neutro:27
+"Na minha experiência, Fiquei satisfeito com o sabor quando recebi a entrega.",positivo,positivo:25
+"Na minha experiência, O serviço foi igual às outras vezes no restaurante.",neutro,neutro:23
+"Hoje, Experiência horrível, nada funcionou no restaurante.",negativo,negativo:9
+"Na última compra, A bebida veio quente e sem graça quando recebi a entrega.",negativo,negativo:17
+A qualidade foi mediana quando recebi a entrega.,neutro,neutro:12
+"Na minha experiência, O hambúrguer veio seco e queimado quando recebi a entrega.",negativo,negativo:3
+"Na última compra, Porção generosa e qualidade incrível quando recebi a entrega.",positivo,positivo:10
+"Na minha experiência, Foi aceitável quando recebi a entrega.",neutro,neutro:14
+"Na última compra, Serviço eficiente e resultado delicioso no pedido de hoje.",positivo,positivo:28
+"Hoje, Fiquei muito frustrado com o serviço no restaurante.",negativo,negativo:23
+"Na última compra, No geral estava neutro no restaurante.",neutro,neutro:26
+"Hoje, A salada veio fresca e bem temperada no restaurante.",positivo,positivo:13
+Hambúrguer suculento e muito gostoso.,positivo,positivo:4
+"Hoje, Adorei o sabor e a apresentação do prato no restaurante.",positivo,positivo:2
+O serviço foi igual às outras vezes quando recebi a entrega.,neutro,neutro:23
+"Hoje, A textura estava na média no pedido de hoje.",neutro,neutro:20
+Foi aceitável no restaurante.,neutro,neutro:14
+"Hoje, Faltaram ingredientes e fiquei decepcionado.",negativo,negativo:5
+Chegou antes do previsto e muito bem feito no pedido de hoje.,positivo,positivo:11
+"Na última compra, O preço está dentro da média quando recebi a entrega.",neutro,neutro:6
+"Na minha experiência, A bebida veio quente e sem graça no pedido de hoje.",negativo,negativo:17
+"Na minha experiência, A sobremesa estava velha no pedido de hoje.",negativo,negativo:16
+"Hoje, Foi aceitável no pedido de hoje.",neutro,neutro:14
+"Na minha experiência, Foi uma experiência excelente, tudo perfeito no pedido de hoje.",positivo,positivo:9
+O molho estava azedo e desagradável quando recebi a entrega.,negativo,negativo:10

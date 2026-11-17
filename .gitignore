@@ -1,0 +1,23 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.ruff_cache/
+# Generated state (model may contain executable pickle, never commit blindly)
+artifacts/
+# Configuration / keys
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+# OS/IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Testing
+.coverage
+htmlcov/

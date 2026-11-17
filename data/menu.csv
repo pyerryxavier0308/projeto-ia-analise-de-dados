@@ -1,0 +1,17 @@
+id,name,category,description,ingredients,price,vegan,vegetarian,contains_lactose,spicy,available
+1,Burger da Casa,Hambúrguer,"Hambúrguer de carne com queijo, tomate e molho da casa",pão; carne bovina; queijo; tomate; molho,34.9,0,0,1,0,1
+2,Burger Vegetariano,Hambúrguer,Hambúrguer vegetariano de grão-de-bico com salada,pão; grão-de-bico; alface; tomate; azeite,31.5,1,1,0,0,1
+3,Burger Picante,Hambúrguer,Burger de carne com pimenta jalapeño,pão; carne bovina; queijo; jalapeño; cebola,38.0,0,0,1,1,1
+4,Pizza Margherita,Pizza,"Pizza clássica de mussarela, tomate e manjericão",massa; queijo mussarela; molho de tomate; manjericão,48.0,0,1,1,0,1
+5,Pizza Vegetariana,Pizza,Pizza com vegetais grelhados e queijo,massa; queijo; abobrinha; berinjela; tomate,52.0,0,1,1,0,1
+6,Pizza Vegana,Pizza,Pizza sem queijo com vegetais e molho de tomate,massa sem leite; cogumelos; tomate; rúcula; azeite,49.0,1,1,0,0,1
+7,Salada Mediterrânea,Salada,"Salada com folhas, grão-de-bico e vegetais",alface; rúcula; pepino; grão-de-bico; azeite,27.0,1,1,0,0,1
+8,Bowl de Quinoa,Bowl,"Quinoa, tofu e legumes salteados",quinoa; tofu; cenoura; brócolis; azeite,35.0,1,1,0,0,1
+9,Bowl de Frango,Bowl,"Bowl de arroz integral, frango e vegetais",arroz integral; frango; cenoura; brócolis,36.0,0,0,0,0,1
+10,Macarrão ao Pesto,Massa,Macarrão com pesto tradicional,massa; manjericão; parmesão; castanhas; azeite,42.0,0,1,1,0,1
+11,Macarrão Arrabbiata,Massa,Massa com molho de tomate e pimenta,massa sem ovos; tomate; alho; pimenta,39.0,1,1,0,1,1
+12,Suco Natural,Bebida,Suco de laranja sem açúcar adicionado,laranja; água,12.0,1,1,0,0,1
+13,Limonada,Bebida,Limonada com hortelã,limão; água; hortelã,10.0,1,1,0,0,1
+14,Milk-shake,Bebida,Milk-shake de chocolate,leite; sorvete; chocolate,20.0,0,1,1,0,1
+15,Brownie,Sobremesa,Brownie de chocolate com nozes,chocolate; farinha; ovos; leite; nozes,19.0,0,1,1,0,1
+16,Frutas da Estação,Sobremesa,Porção de frutas frescas,banana; maçã; morango; manga,18.0,1,1,0,0,1

@@ -1,0 +1,18 @@
+services:
+  api:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - project_state:/app/artifacts
+  dashboard:
+    build: .
+    command: ["python","-m","streamlit","run","dashboard/app.py","--server.address","0.0.0.0","--server.port","8501"]
+    ports:
+      - "127.0.0.1:8501:8501"
+    environment:
+      PROJECT_API_URL: http://api:8000
+    depends_on:
+      - api
+volumes:
+  project_state:

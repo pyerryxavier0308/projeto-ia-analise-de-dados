@@ -1,0 +1,85 @@
+product_id,rating,text,sentiment
+1,4,"O molho estava maravilhoso, adorei",positivo
+2,4,Gostei do tempero e da textura,positivo
+3,4,O preço está dentro da média,neutro
+4,2,A embalagem rasgou e sujou tudo,negativo
+5,5,"Pizza maravilhosa, recomendo demais",positivo
+6,4,Os ingredientes estavam frescos e saborosos,positivo
+7,3,Os ingredientes eram os esperados,neutro
+8,1,A embalagem rasgou e sujou tudo,negativo
+9,5,Muito bom o atendimento e o prato,positivo
+10,4,A salada veio fresca e bem temperada,positivo
+11,4,A porção tem tamanho padrão,neutro
+12,2,A pizza estava dura e sem sabor,negativo
+13,4,"O molho estava maravilhoso, adorei",positivo
+14,4,O pedido veio excelente e bem embalado,positivo
+15,3,Não notei nada diferente,neutro
+16,2,O sabor foi decepcionante,negativo
+1,4,"Gostei muito, voltarei a pedir",positivo
+2,5,Porção generosa e qualidade incrível,positivo
+3,3,A porção tem tamanho padrão,neutro
+4,1,Demorou demais para resolver o problema,negativo
+5,4,Preço justo pela qualidade e sabor,positivo
+6,5,Os ingredientes estavam frescos e saborosos,positivo
+7,3,O ambiente foi tranquilo,neutro
+8,2,O sabor foi decepcionante,negativo
+9,4,Gostei do tempero e da textura,positivo
+10,4,A apresentação foi bonita e o gosto excelente,positivo
+11,3,Foi uma experiência comum,neutro
+12,1,O pedido veio frio e sem gosto,negativo
+13,4,A comida veio no ponto e bem preparada,positivo
+14,4,"Pizza maravilhosa, recomendo demais",positivo
+15,3,Não tenho opinião forte sobre o pedido,neutro
+16,2,"Experiência horrível, nada funcionou",negativo
+1,5,A bebida estava gelada e perfeita,positivo
+2,5,"O molho estava maravilhoso, adorei",positivo
+3,4,"A comida estava razoável, nada especial",neutro
+4,2,A porção veio pequena e mal embalada,negativo
+5,5,A comida estava deliciosa e chegou quentinha,positivo
+6,5,"Pizza maravilhosa, recomendo demais",positivo
+7,3,Foi aceitável,neutro
+8,2,A carne estava passada demais,negativo
+9,4,Produto fresco e bem apresentado,positivo
+10,5,A comida estava deliciosa e chegou quentinha,positivo
+11,3,O serviço foi igual às outras vezes,neutro
+12,1,Faltaram ingredientes e fiquei decepcionado,negativo
+13,4,Gostei do tempero e da textura,positivo
+14,4,Foi tudo ótimo do começo ao fim,positivo
+15,3,A apresentação era comum,neutro
+16,2,Não recomendo este restaurante,negativo
+1,4,"Foi uma experiência excelente, tudo perfeito",positivo
+2,5,Porção generosa e qualidade incrível,positivo
+3,3,O ambiente foi tranquilo,neutro
+4,1,Demorou demais para resolver o problema,negativo
+5,4,Hambúrguer suculento e muito gostoso,positivo
+6,5,Hambúrguer suculento e muito gostoso,positivo
+7,4,O pedido chegou no horário previsto,neutro
+8,2,Veio totalmente diferente do anunciado,negativo
+9,4,Serviço eficiente e resultado delicioso,positivo
+10,4,Hambúrguer suculento e muito gostoso,positivo
+11,3,O preço está dentro da média,neutro
+12,2,Fiquei insatisfeito com a qualidade,negativo
+13,5,Fiquei satisfeito com o sabor,positivo
+14,5,Adorei o sabor e a apresentação do prato,positivo
+15,3,Não tenho opinião forte sobre o pedido,neutro
+16,2,Demorou muito e chegou tudo errado,negativo
+1,5,Os ingredientes estavam frescos e saborosos,positivo
+2,5,O pedido veio excelente e bem embalado,positivo
+3,3,O atendimento foi regular,neutro
+4,1,Demorou demais para resolver o problema,negativo
+5,5,Porção generosa e qualidade incrível,positivo
+6,5,"Pizza maravilhosa, recomendo demais",positivo
+7,3,Recebi exatamente o item solicitado,neutro
+8,1,O arroz estava ressecado e ruim,negativo
+9,4,Adorei o sabor e a apresentação do prato,positivo
+10,4,A comida estava deliciosa e chegou quentinha,positivo
+11,3,Recebi exatamente o item solicitado,neutro
+12,1,O pedido levou uma eternidade,negativo
+13,5,A comida veio no ponto e bem preparada,positivo
+14,4,A apresentação foi bonita e o gosto excelente,positivo
+15,4,A entrega ocorreu no tempo informado,neutro
+16,2,A comida chegou toda derramada,negativo
+1,4,A apresentação foi bonita e o gosto excelente,positivo
+2,5,"Excelente custo benefício, recomendo",positivo
+3,3,A qualidade foi mediana,neutro
+4,2,Veio totalmente diferente do anunciado,negativo

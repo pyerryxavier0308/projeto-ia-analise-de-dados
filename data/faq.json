@@ -1,0 +1,62 @@
+[
+  {
+    "id": "faq:horario",
+    "title": "Horário de funcionamento",
+    "content": "Restaurante de demonstração aberto de segunda a sábado, das 11h às 22h; domingo fechado.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:entrega",
+    "title": "Entrega e regiões",
+    "content": "A entrega fictícia atende somente a região central da cidade simulada. Taxa de entrega depende da distância e não é calculada neste aplicativo.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:pagamento",
+    "title": "Formas de pagamento",
+    "content": "O restaurante fictício aceita cartões de crédito, débito e Pix na retirada. Não processamos pagamentos reais.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:retirada",
+    "title": "Retirada no balcão",
+    "content": "É possível solicitar retirada no balcão durante o horário de funcionamento. Nenhum pedido real é recebido neste protótipo.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:alergia",
+    "title": "Informações sobre alergias",
+    "content": "O cardápio contém indicações simplificadas de ingredientes, mas não há garantia contra contaminação cruzada. Pessoas com alergias devem consultar diretamente o restaurante antes de consumir.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:vegano",
+    "title": "Opções veganas e vegetarianas",
+    "content": "Há pratos vegetarianos e veganos identificados no cadastro. Use os filtros de cardápio para consultar; confirme ingredientes e preparo antes de consumir.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:reembolso",
+    "title": "Reembolso e cancelamento",
+    "content": "Este é um aplicativo de demonstração acadêmica: não realiza vendas, pagamentos, cancelamentos nem reembolsos reais.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:personalizacao",
+    "title": "Personalização de pratos",
+    "content": "A possibilidade de remover ingredientes não está definida nos dados de demonstração. Consulte o estabelecimento antes de realizar um pedido real.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:precos",
+    "title": "Preços",
+    "content": "Os preços apresentados são fictícios, expressos em reais (BRL), e servem somente para demonstrar consultas e filtros.",
+    "kind": "faq"
+  },
+  {
+    "id": "faq:sobre",
+    "title": "Sobre o projeto",
+    "content": "Projeto de IA — Análise de Dados é uma aplicação de portfólio acadêmico, com dados inventados, API, modelos simples de Machine Learning e uma busca textual documentada. Não é um serviço comercial nem utiliza informações privadas de empresas.",
+    "kind": "faq"
+  }
+]
